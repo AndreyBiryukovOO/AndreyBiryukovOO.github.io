@@ -131,6 +131,22 @@ p {
   font-weight: 500;
   margin-bottom: 0px;
 }
+
+.button {
+    background-color: #ffffff;
+    border: none;
+    color: white;
+    padding: 6px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 8px;
+    margin: 4px 2px;
+}
+
+.button1 {border-radius: 8px;}
+.button2 {border-radius: 8px;}
+
 .sidebar-wrapper .languages-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
 }
